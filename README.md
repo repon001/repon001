@@ -146,7 +146,7 @@ Full-Stack Developer building scalable web &amp; mobile applications with <stron
 ## 💻 Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2034%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
